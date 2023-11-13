@@ -1,3 +1,4 @@
+#Program that check password
 def NbCMin(passe):
     min = passe
     for i in min:
